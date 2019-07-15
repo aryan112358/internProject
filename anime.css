@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.fullpage{
+    width: 100%;
+    height: 100vh;
+    position:absolute;
+    background-image: url("http://dotwadmin.tcig.co/Content/DOTW_AdminTemp/assets/img/login-bg/bg-4.jpg");
+
+}
